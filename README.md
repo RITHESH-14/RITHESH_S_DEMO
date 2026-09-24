@@ -1,3 +1,3 @@
 # RITHESH_S_DEMO
 THIS IS MY FIRST GIT REPOSITORY
-author-Rithesh.S
+Author-Rithesh.S
