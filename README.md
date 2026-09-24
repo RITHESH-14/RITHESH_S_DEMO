@@ -1,4 +1,4 @@
 # RITHESH_S_DEMO
 THIS IS MY FIRST GIT REPOSITORY
 <br>
-Author-Rithesh.S
+Author-Rithesh.S(MVJ college)
